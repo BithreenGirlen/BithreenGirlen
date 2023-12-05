@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![BithreenGirlen's GitHub stats](github-readme-stats-six-sable-56.vercel.app/api?username=BithreenGirlen&count_private=true)](https://github.com/BithreenGirlen/github-readme-stats)
+
+[![Top Langs](github-readme-stats-six-sable-56.vercel.app/api/top-langs/?username=BithreenGirlen)](https://github.com/BithreenGirlen/github-readme-stats)
+
 <!--
 **BithreenGirlen/BithreenGirlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
